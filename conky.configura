@@ -20,7 +20,7 @@ conky.config = {
 
 	alignment = 'bottom_right',
 	gap_x = 20,
-	gap_y = 200,
+	gap_y = 20,
 
 	minimum_width = 360, minimum_height = 117,
 	maximum_width = 360,
@@ -32,7 +32,7 @@ conky.config = {
 
 	override_utf8_locale = true,
 	use_xft = true,
-	font = 'ubuntu:size=11',
+	font = 'Ubuntu Light:size=8',
 	xftalpha = 1,
 	uppercase = false,
 	extra_newline = false,
